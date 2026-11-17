@@ -1,11 +1,8 @@
 # SOLMAR BAY — Streets of the Sun
 
-![Status](https://img.shields.io/badge/status-playable-brightgreen)
-![Players](https://img.shields.io/badge/players-1-blue)
-![Platform](https://img.shields.io/badge/platform-desktop%20Chrome-blue)
-![Missions](https://img.shields.io/badge/missions-3-orange)
-![Wanted](https://img.shields.io/badge/wanted-0%E2%80%935%20stars-red)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/5WanWan/gta6-01-r3/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/5WanWan/gta6-01-r3/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An original open-world crime game in the spirit of GTA 6, built for the
 make.fun **gta6-01 "Make GTA 6"** bounty. No libraries, no network, no
@@ -104,3 +101,5 @@ game/
 ## License
 
 MIT — see `LICENSE`.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=sdnvmg7s&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
